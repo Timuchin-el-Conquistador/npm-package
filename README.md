@@ -1,1 +1,1 @@
-"# npm-package" 
+"my first npm package" 
